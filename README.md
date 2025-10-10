@@ -2,9 +2,7 @@
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
 
-# Project Title
-
-AutoFormFiller
+# AutoFormFiller
 
 ## Summary
 AutoFormFiller is a project designed to simplify the repetitive task of filling in forms (such as bid applications, business documents, or standardized forms).  
